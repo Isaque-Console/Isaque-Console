@@ -1,4 +1,4 @@
-## Olá! Eu sou a Isaque Araújo 
+## Olá! Eu sou o Isaque Araújo 
  <div>
   <a href="https://github.com/isaque-console">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaque-console&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
