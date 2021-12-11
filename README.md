@@ -1,5 +1,4 @@
-## Olá! Eu sou Isaque Araújo 
-- 🤵 Hoje trabalho com back-end e front-end;
+## Olá! Eu sou Isaque Araújo
 - 🧑🏻‍💻 Atualmente estou estudando Node.js
  <div>
   <a href="https://github.com/isaque-console">
